@@ -3,6 +3,10 @@
 
 This project was bootstrapped with Create React App.
 
+click to View The Website:
+
+https://comfy-sopapillas-5f686c.netlify.app/
+
 Available Scripts
 In the project directory, you can run:
 
